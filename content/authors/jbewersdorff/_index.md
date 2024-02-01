@@ -25,6 +25,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Visualization
+  - KI
 
 education:
   courses:
